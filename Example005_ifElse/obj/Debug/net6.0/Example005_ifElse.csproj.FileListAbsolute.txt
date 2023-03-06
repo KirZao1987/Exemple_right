@@ -1,0 +1,15 @@
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.AssemblyReference.cache
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfoInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.AssemblyInfo.cs
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.csproj.CoreCompileInputs.cache
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.deps.json
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.runtimeconfig.json
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.dll
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/bin/Debug/net6.0/Example005_ifElse.pdb
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.dll
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/refint/Example005_ifElse.dll
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.pdb
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/Example005_ifElse.genruntimeconfig.cache
+/Users/kirillzaostrovskikh/Desktop/Example_right/Example005_ifElse/obj/Debug/net6.0/ref/Example005_ifElse.dll
